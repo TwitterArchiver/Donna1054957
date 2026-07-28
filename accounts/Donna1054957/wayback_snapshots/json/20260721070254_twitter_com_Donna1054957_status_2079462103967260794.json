@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079462100410540033"
+      ]
+    },
+    "author_id": "1971244609943564290",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079462103967260794",
+    "created_at": "2026-07-21T07:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079462103967260794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xHcsLnhQwc",
+          "end": 31,
+          "expanded_url": "https://x.com/Donna1054957/status/2079462103967260794/photo/1",
+          "media_key": "3_2079462100410540033",
+          "start": 8,
+          "url": "https://t.co/xHcsLnhQwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079462103967260794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我等这天很久了 https://t.co/xHcsLnhQwc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2079462100410540033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNu7w0rboAEuW55.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079462100410540033"
+          ]
+        },
+        "author_id": "1971244609943564290",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079462103967260794",
+        "created_at": "2026-07-21T07:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079462103967260794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xHcsLnhQwc",
+              "end": 31,
+              "expanded_url": "https://x.com/Donna1054957/status/2079462103967260794/photo/1",
+              "media_key": "3_2079462100410540033",
+              "start": 8,
+              "url": "https://t.co/xHcsLnhQwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079462103967260794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我等这天很久了 https://t.co/xHcsLnhQwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2077460351239741846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 140,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}

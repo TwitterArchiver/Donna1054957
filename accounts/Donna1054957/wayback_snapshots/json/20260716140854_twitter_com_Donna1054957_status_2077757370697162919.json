@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971244609943564290",
+    "conversation_id": "2077698375303270710",
+    "created_at": "2026-07-16T14:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077757370697162919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1928692640356134912",
+          "start": 0,
+          "username": "9way021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077757370697162919",
+    "in_reply_to_user_id": "1928692640356134912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077698375303270710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9way021 大观园不也是爆珠吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2077698375303270710",
+        "created_at": "2026-07-16T14:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077757370697162919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1928692640356134912",
+              "start": 0,
+              "username": "9way021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077757370697162919",
+        "in_reply_to_user_id": "1928692640356134912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077698375303270710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9way021 大观园不也是爆珠吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928692640356134912",
+        "conversation_id": "2077698375303270710",
+        "created_at": "2026-07-16T10:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077698375303270710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/9way021/status…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/9way021/status/2077698176279347693",
+              "start": 42,
+              "url": "https://t.co/EIr1vLp9V3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077698375303270710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077698176279347693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还是爱抽爆珠啊，今天买了个大观园，拉完了。。烟味，我想吐了，草莓爆爱喜你回来吧！ https://t.co/EIr1vLp9V3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2077460351239741846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 105,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T05:59:07.000Z",
+        "description": "我是vv二代…互fo+",
+        "id": "1928692640356134912",
+        "location": "https://ngl.link/weiwei0420",
+        "name": "Dennis Nilsen",
+        "pinned_tweet_id": "2076928700629836024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076929194685251585/UIXxFdlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 35,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "9way021",
+        "verified": false
+      }
+    ]
+  }
+}

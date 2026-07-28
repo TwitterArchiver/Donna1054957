@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971244609943564290",
+    "conversation_id": "2076981109993456015",
+    "created_at": "2026-07-14T10:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076981109993456015"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076981109993456015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无聊就想🔪  但问题是我是不是有毛病为什么总想着攻击自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2076981109993456015",
+        "created_at": "2026-07-14T10:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076981109993456015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076981109993456015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无聊就想🔪  但问题是我是不是有毛病为什么总想着攻击自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 43,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}

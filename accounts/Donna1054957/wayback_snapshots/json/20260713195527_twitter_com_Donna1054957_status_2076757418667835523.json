@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971244609943564290",
+    "conversation_id": "2076757418667835523",
+    "created_at": "2026-07-13T19:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T20:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076757418667835523"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076757418667835523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和朋友深入交流了一下发现其实我们不算恶劣 只是有点迷茫 还在探索这个世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2076757418667835523",
+        "created_at": "2026-07-13T19:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T20:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076757418667835523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076757418667835523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和朋友深入交流了一下发现其实我们不算恶劣 只是有点迷茫 还在探索这个世界"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中                                                                  \n                           最爱@shier6639",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 100,
+                "username": "shier6639"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "name": "OT夏树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 39,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}

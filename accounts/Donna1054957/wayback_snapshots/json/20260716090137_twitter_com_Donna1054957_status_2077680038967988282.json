@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077680035868422144"
+      ]
+    },
+    "author_id": "1971244609943564290",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077641881740255462",
+    "created_at": "2026-07-16T09:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077680038967988282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060108659385077760",
+          "start": 0,
+          "username": "SakuraAmesaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3AD3YvIASx",
+          "end": 53,
+          "expanded_url": "https://x.com/Donna1054957/status/2077680038967988282/photo/1",
+          "media_key": "3_2077680035868422144",
+          "start": 30,
+          "url": "https://t.co/3AD3YvIASx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077680038967988282",
+    "in_reply_to_user_id": "2060108659385077760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077662902614700101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuraAmesaki 紫魔爪 我喜欢它的瓶子和味道 https://t.co/3AD3YvIASx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077680035868422144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVm_A7bsAA3Nh5.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077680035868422144"
+          ]
+        },
+        "author_id": "1971244609943564290",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077641881740255462",
+        "created_at": "2026-07-16T09:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077680038967988282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060108659385077760",
+              "start": 0,
+              "username": "SakuraAmesaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3AD3YvIASx",
+              "end": 53,
+              "expanded_url": "https://x.com/Donna1054957/status/2077680038967988282/photo/1",
+              "media_key": "3_2077680035868422144",
+              "start": 30,
+              "url": "https://t.co/3AD3YvIASx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077680038967988282",
+        "in_reply_to_user_id": "2060108659385077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077662902614700101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraAmesaki 紫魔爪 我喜欢它的瓶子和味道 https://t.co/3AD3YvIASx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060108659385077760",
+        "conversation_id": "2077641881740255462",
+        "created_at": "2026-07-16T07:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077662902614700101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1971244609943564290",
+              "start": 0,
+              "username": "Donna1054957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077662902614700101",
+        "in_reply_to_user_id": "1971244609943564290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077641881740255462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Donna1054957 你喜欢喝什么口味呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2077460351239741846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 102,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T21:20:23.000Z",
+        "description": "小天使请安！今天有在发病的同时好好照顾自己吗？    18岁｜心理跨女🏳️‍⚧️，暂时无证无糖，未来可能会做变性手术｜主要玩单机游戏｜选择性回关，主要关注同类和同好｜偶尔会发些负能量，谨慎关注｜最好的姐姐@LoneStar6072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LoneStar6072"
+              }
+            ]
+          }
+        },
+        "id": "2060108659385077760",
+        "name": "超绝超可爱诗雨酱",
+        "pinned_tweet_id": "2077202039533420547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067337921745817600/wKeKB8Bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 76,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "SakuraAmesaki",
+        "verified": false
+      }
+    ]
+  }
+}

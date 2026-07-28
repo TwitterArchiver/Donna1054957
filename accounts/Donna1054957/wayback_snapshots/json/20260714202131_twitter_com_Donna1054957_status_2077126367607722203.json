@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971244609943564290",
+    "conversation_id": "2077126367607722203",
+    "created_at": "2026-07-14T20:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T21:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077126367607722203"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077126367607722203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看了一下发现我貌似没有性瘾 我一天冲一次算多了 之前试过连着来两次结果疼死我了 然后我身边的朋友居然每天两次有时三次 你们究竟怎么做到的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2077126367607722203",
+        "created_at": "2026-07-14T20:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T21:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077126367607722203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077126367607722203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看了一下发现我貌似没有性瘾 我一天冲一次算多了 之前试过连着来两次结果疼死我了 然后我身边的朋友居然每天两次有时三次 你们究竟怎么做到的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 62,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}

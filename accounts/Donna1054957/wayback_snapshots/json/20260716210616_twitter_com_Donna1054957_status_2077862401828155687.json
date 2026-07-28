@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971244609943564290",
+    "conversation_id": "2077460351239741846",
+    "created_at": "2026-07-16T21:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T22:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077862401828155687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967736228725575681",
+          "start": 0,
+          "username": "shier6639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077862401828155687",
+    "in_reply_to_user_id": "1971244609943564290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077460351239741846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shier6639 牛逼牛逼 没注意看发现有42条人机评论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2077460351239741846",
+        "created_at": "2026-07-16T21:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T22:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077862401828155687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967736228725575681",
+              "start": 0,
+              "username": "shier6639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077862401828155687",
+        "in_reply_to_user_id": "1971244609943564290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077460351239741846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shier6639 牛逼牛逼 没注意看发现有42条人机评论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2077460351239741846",
+        "created_at": "2026-07-15T18:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077460351239741846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1967736228725575681",
+              "start": 8,
+              "username": "shier6639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077460351239741846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 545,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我是OT 最喜欢@shier6639和夏树💕 4月17诞生/男/od/🔪/全友好/平时发日常/可能会有些冒犯的帖子/月计三部曲/zato/混的有点杂/不涉政/看成分回fo 找我玩！我会很开心😸随时给我私信📩不过可能有时看不到 想不到写什么了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2077460351239741846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 111,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T23:44:17.000Z",
+        "description": "",
+        "id": "1967736228725575681",
+        "name": "十二点",
+        "pinned_tweet_id": "2077404107611205678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076650614541737984/StRKTJau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 110,
+          "like_count": 695,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "shier6639",
+        "verified": false
+      }
+    ]
+  }
+}

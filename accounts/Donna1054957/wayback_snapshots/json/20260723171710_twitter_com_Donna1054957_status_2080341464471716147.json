@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971244609943564290",
+    "conversation_id": "2080278673064952118",
+    "created_at": "2026-07-23T17:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T18:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080341464471716147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757752234878828544",
+          "start": 0,
+          "username": "run_bian45135"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080341464471716147",
+    "in_reply_to_user_id": "1757752234878828544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080326894545957347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@run_bian45135 哦哦老大我这边没看到sorry"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2080278673064952118",
+        "created_at": "2026-07-23T17:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080341464471716147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757752234878828544",
+              "start": 0,
+              "username": "run_bian45135"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080341464471716147",
+        "in_reply_to_user_id": "1757752234878828544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080326894545957347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@run_bian45135 哦哦老大我这边没看到sorry"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757752234878828544",
+        "conversation_id": "2080278673064952118",
+        "created_at": "2026-07-23T16:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080326894545957347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1971244609943564290",
+              "start": 0,
+              "username": "Donna1054957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080326894545957347",
+        "in_reply_to_user_id": "1971244609943564290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080278673064952118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Donna1054957 想和你互fo🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 164,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T13:02:56.000Z",
+        "description": "可以找我一起od 想和你们交朋友不介意请都来找我互fo吧，喜欢互动，看到都会回！",
+        "id": "1757752234878828544",
+        "location": "你身边",
+        "name": "未命名之酶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029451663715778564/IpL4pbt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 13,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "run_bian45135",
+        "verified": false
+      }
+    ]
+  }
+}

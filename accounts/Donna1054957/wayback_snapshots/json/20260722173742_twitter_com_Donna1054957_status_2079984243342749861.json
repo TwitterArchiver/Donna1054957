@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971244609943564290",
+    "conversation_id": "2079862600624697659",
+    "created_at": "2026-07-22T17:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079984243342749861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828851871177408512",
+          "start": 0,
+          "username": "Sawak0v0"
+        },
+        {
+          "end": 25,
+          "id": "2059149411007991808",
+          "start": 10,
+          "username": "wndsfefoumxlw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079984243342749861",
+    "in_reply_to_user_id": "1828851871177408512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079958619160985789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sawak0v0 @wndsfefoumxlw6 消耗多巴胺以产生幻觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2079862600624697659",
+        "created_at": "2026-07-22T17:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079984243342749861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828851871177408512",
+              "start": 0,
+              "username": "Sawak0v0"
+            },
+            {
+              "end": 25,
+              "id": "2059149411007991808",
+              "start": 10,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079984243342749861",
+        "in_reply_to_user_id": "1828851871177408512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079958619160985789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sawak0v0 @wndsfefoumxlw6 消耗多巴胺以产生幻觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828851871177408512",
+        "conversation_id": "2079862600624697659",
+        "created_at": "2026-07-22T15:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079958619160985789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079958619160985789",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079862600624697659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 这个会被多巴胺影响吗，影响是什么呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 155,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T17:47:32.000Z",
+        "description": "人生ってのはなあ   痛いんだよ\n08/自伤/od/焦虑抑郁/精神分裂 纯绿推  私信随机回  只fo/转餐券  过门发口令红包或赞赏码\n线下不接  匿名问答https://t.co/PeqRn5M82f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sawako86818",
+                "end": 102,
+                "expanded_url": "https://ngl.link/sawako86818",
+                "start": 79,
+                "url": "https://t.co/PeqRn5M82f"
+              }
+            ]
+          }
+        },
+        "id": "1828851871177408512",
+        "name": "さわこ",
+        "pinned_tweet_id": "1992209177863958713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958096638049923072/m5GQSX8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 108,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "Sawak0v0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/ 前世@RfbxaUauj41685 @rednightmare962 避难所：@yu_fatai欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yu_fatai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 124,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 101,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 158,
+          "like_count": 4247,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 2064
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}

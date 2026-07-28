@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971244609943564290",
+    "conversation_id": "2077806115237331414",
+    "created_at": "2026-07-16T21:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T22:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077861630885728718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060108659385077760",
+          "start": 0,
+          "username": "SakuraAmesaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077861630885728718",
+    "in_reply_to_user_id": "2060108659385077760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077806115237331414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuraAmesaki 哼哼 老大你自信点 你很好呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2077806115237331414",
+        "created_at": "2026-07-16T21:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T22:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077861630885728718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060108659385077760",
+              "start": 0,
+              "username": "SakuraAmesaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077861630885728718",
+        "in_reply_to_user_id": "2060108659385077760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077806115237331414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraAmesaki 哼哼 老大你自信点 你很好呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060108659385077760",
+        "conversation_id": "2077806115237331414",
+        "created_at": "2026-07-16T17:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077806115237331414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077806115237331414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "犹豫了好久，在想要不要发出来，虽然还是发出来了……其实我感觉自己像个机器人一样在安慰别人呢……要是我会安慰人就好了w……有的时候我是真的害怕因为我冒犯到别人导致别人更痛苦了w，如果我平常在安慰宅宅们的时候被冒犯到一定要说出来w……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2077460351239741846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 108,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T21:20:23.000Z",
+        "description": "小天使请安！今天有在发病的同时好好照顾自己吗？ 18岁｜心理跨女🏳️‍⚧️，暂时无证无糖，未来可能会做变性手术｜主要玩单机游戏｜选择性回关，主要关注同类和同好｜偶尔会发些负能量，谨慎关注｜最好的姐姐@LoneStar6072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 99,
+                "username": "LoneStar6072"
+              }
+            ]
+          }
+        },
+        "id": "2060108659385077760",
+        "name": "超绝超可爱诗雨酱",
+        "pinned_tweet_id": "2077202039533420547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067337921745817600/wKeKB8Bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 77,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "SakuraAmesaki",
+        "verified": false
+      }
+    ]
+  }
+}

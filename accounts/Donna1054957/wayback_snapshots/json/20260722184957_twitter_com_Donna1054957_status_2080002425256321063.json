@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971244609943564290",
+    "conversation_id": "2079917342914695628",
+    "created_at": "2026-07-22T18:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T19:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080002425256321063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531666721354010625",
+          "start": 0,
+          "username": "Cinnamoroll_Tea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080002425256321063",
+    "in_reply_to_user_id": "1531666721354010625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079924927503958142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cinnamoroll_Tea 不用了 我不在乎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2079917342914695628",
+        "created_at": "2026-07-22T18:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080002425256321063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531666721354010625",
+              "start": 0,
+              "username": "Cinnamoroll_Tea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080002425256321063",
+        "in_reply_to_user_id": "1531666721354010625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079924927503958142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cinnamoroll_Tea 不用了 我不在乎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531666721354010625",
+        "conversation_id": "2079917342914695628",
+        "created_at": "2026-07-22T13:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079924927503958142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1971244609943564290",
+              "start": 0,
+              "username": "Donna1054957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079924927503958142",
+        "in_reply_to_user_id": "1971244609943564290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079917342914695628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Donna1054957 要不买点护肝片？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 157,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 178
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T15:59:46.000Z",
+        "description": "很喜欢和你们灵长类交流🤗",
+        "id": "1531666721354010625",
+        "location": "乌萨奇",
+        "name": "橙果酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079509125936103424/cpmLri6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 191,
+          "like_count": 130906,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 6534
+        },
+        "url": "",
+        "username": "Cinnamoroll_Tea",
+        "verified": true
+      }
+    ]
+  }
+}

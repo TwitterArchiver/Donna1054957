@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971244609943564290",
+    "conversation_id": "2080998259590635857",
+    "created_at": "2026-07-25T12:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080998259590635857"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080998259590635857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呀吼～哼🙄忘记你🤔⁉️❓❓该怎么忘记你🤓🤓🤓我自己骗自己🤯🤯🤯被困在回忆里🥺🥺🥺2😜D🤪Shawty😉她温暖我的心🥰🥰🥰吻在我的颈😘😘😘恋爱我也搞不定💔💔💔遥不可及的你❤️‍🩹❤️‍🩹❤️‍🩹重蹈覆辙欺骗我自己😞😔😖😫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2080998259590635857",
+        "created_at": "2026-07-25T12:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080998259590635857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080998259590635857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呀吼～哼🙄忘记你🤔⁉️❓❓该怎么忘记你🤓🤓🤓我自己骗自己🤯🤯🤯被困在回忆里🥺🥺🥺2😜D🤪Shawty😉她温暖我的心🥰🥰🥰吻在我的颈😘😘😘恋爱我也搞不定💔💔💔遥不可及的你❤️‍🩹❤️‍🩹❤️‍🩹重蹈覆辙欺骗我自己😞😔😖😫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 179,
+          "like_count": 474,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}

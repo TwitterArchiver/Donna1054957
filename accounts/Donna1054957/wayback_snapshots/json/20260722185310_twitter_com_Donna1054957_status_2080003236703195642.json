@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971244609943564290",
+    "conversation_id": "2079975012422041994",
+    "created_at": "2026-07-22T18:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T19:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080003236703195642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1745456733500375040",
+          "start": 0,
+          "username": "oseven1228119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080003236703195642",
+    "in_reply_to_user_id": "1745456733500375040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079975012422041994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oseven1228119 呵呵呵。。msk害得大家都不能言论自由 于是都被封了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2079975012422041994",
+        "created_at": "2026-07-22T18:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080003236703195642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1745456733500375040",
+              "start": 0,
+              "username": "oseven1228119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080003236703195642",
+        "in_reply_to_user_id": "1745456733500375040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079975012422041994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oseven1228119 呵呵呵。。msk害得大家都不能言论自由 于是都被封了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745456733500375040",
+        "conversation_id": "2079975012422041994",
+        "created_at": "2026-07-22T17:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079975012422041994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079975012422041994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我重生了，在回复区寻找互关账号发现一堆已冻结"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 157,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T14:45:05.000Z",
+        "description": "💊/🔪 同类互fo喵(:3っ )っ\n＊私信功能无法使用抱歉\n＊不回消息是号被制裁或者冻结了",
+        "id": "1745456733500375040",
+        "name": "O seven （2.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079972879236726784/fCbjW2Xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "oseven1228119",
+        "verified": false
+      }
+    ]
+  }
+}

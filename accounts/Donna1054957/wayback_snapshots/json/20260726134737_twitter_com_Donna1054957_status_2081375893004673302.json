@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081375889326309376"
+      ]
+    },
+    "author_id": "1971244609943564290",
+    "conversation_id": "2081375893004673302",
+    "created_at": "2026-07-26T13:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081375893004673302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m8DL2MyoUB",
+          "end": 42,
+          "expanded_url": "https://x.com/Donna1054957/status/2081375893004673302/photo/1",
+          "media_key": "3_2081375889326309376",
+          "start": 19,
+          "url": "https://t.co/m8DL2MyoUB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081375893004673302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你 买一瓶刚刚好 感谢老大支持🙇 https://t.co/m8DL2MyoUB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1215,
+        "media_key": "3_2081375889326309376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKIV_9bgAAvP3k.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081375889326309376"
+          ]
+        },
+        "author_id": "1971244609943564290",
+        "conversation_id": "2081375893004673302",
+        "created_at": "2026-07-26T13:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081375893004673302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8DL2MyoUB",
+              "end": 42,
+              "expanded_url": "https://x.com/Donna1054957/status/2081375893004673302/photo/1",
+              "media_key": "3_2081375889326309376",
+              "start": 19,
+              "url": "https://t.co/m8DL2MyoUB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081375893004673302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你 买一瓶刚刚好 感谢老大支持🙇 https://t.co/m8DL2MyoUB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 184,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 253
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}
