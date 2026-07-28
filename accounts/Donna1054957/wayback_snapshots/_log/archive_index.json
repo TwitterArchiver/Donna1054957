@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-28T12:06:41",
+  "last_updated": "2026-07-28T12:07:18",
   "html": {
     "https://web.archive.org/web/20260713132932if_/https://twitter.com/Donna1054957/status/2076660298015268963": {
       "status": "done",
@@ -1370,9 +1370,9 @@
       "referenced_by": [
         "20260716140549_twitter_com_Donna1054957_status_2077756593224196492.json"
       ],
-      "last_updated": "2026-07-28T12:06:04",
+      "last_updated": "2026-07-28T12:07:04",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260716140549/https://pbs.twimg.com/media/HNWsmRKbUAEpRvU.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HNWs7-_aUAAO93F.jpg": {
       "status": "done",
@@ -1401,9 +1401,9 @@
       "referenced_by": [
         "20260717192659_twitter_com_Donna1054957_status_2078199805537648950.json"
       ],
-      "last_updated": "2026-07-28T12:06:04",
+      "last_updated": "2026-07-28T12:07:07",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260717192659/https://pbs.twimg.com/media/HNc_tbbbUAAJ7iI.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HNgVBDhbQAAYEF0.jpg": {
       "status": "done",
@@ -1438,9 +1438,9 @@
       "referenced_by": [
         "20260719101350_twitter_com_Donna1054957_status_2078785376177758661.json"
       ],
-      "last_updated": "2026-07-28T12:06:04",
+      "last_updated": "2026-07-28T12:07:10",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260719101350/https://pbs.twimg.com/media/HNlTtOGbUAE6iGB.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HNmbPFfbgAA44-9.jpg": {
       "status": "done",
@@ -1450,13 +1450,13 @@
       "last_updated": "2026-07-28T11:23:04"
     },
     "https://pbs.twimg.com/media/HNm6qEVacAEifnK.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260719174107_twitter_com_Donna1054957_status_2078897937862869417.json"
       ],
-      "last_updated": "2026-07-28T12:06:03",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260719174107/https://pbs.twimg.com/media/HNm6qEVacAEifnK.jpg",
-      "miss_count": 2
+      "last_updated": "2026-07-28T12:07:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260719174107im_/https://pbs.twimg.com/media/HNm6qEVacAEifnK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f014c346e40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HNm7iDta4AAaj0l.jpg": {
       "status": "done",
@@ -1473,13 +1473,13 @@
       "last_updated": "2026-07-28T11:23:04"
     },
     "https://pbs.twimg.com/media/HNvh8tja4AE6iKN.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260721114128_twitter_com_Donna1054957_status_2079532206612172937.json"
       ],
-      "last_updated": "2026-07-28T12:06:03",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260721114128/https://pbs.twimg.com/media/HNvh8tja4AE6iKN.jpg",
-      "miss_count": 2
+      "last_updated": "2026-07-28T12:07:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260721114128im_/https://pbs.twimg.com/media/HNvh8tja4AE6iKN.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f014c3899a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HN0zMZHaoAAtyMW.jpg": {
       "status": "done",
@@ -4124,7 +4124,7 @@
       "last_updated": "2026-07-28T11:23:39"
     },
     "20260719174107_twitter_com_Donna1054957_status_2078897937862869417.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HNm6qEVacAEifnK.jpg"
@@ -4134,7 +4134,7 @@
           "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-28T12:06:04"
+      "last_updated": "2026-07-28T12:07:14"
     },
     "20260719174155_twitter_com_Donna1054957_status_2078898141706047515.json": {
       "status": "done",
@@ -4369,7 +4369,7 @@
       "last_updated": "2026-07-28T11:23:39"
     },
     "20260721114128_twitter_com_Donna1054957_status_2079532206612172937.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HNvh8tja4AE6iKN.jpg"
@@ -4380,7 +4380,7 @@
           "https://pbs.twimg.com/profile_images/2067337921745817600/wKeKB8Bb_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-28T12:06:04"
+      "last_updated": "2026-07-28T12:07:18"
     },
     "20260721114233_twitter_com_Donna1054957_status_2079532477874590134.json": {
       "status": "done",
