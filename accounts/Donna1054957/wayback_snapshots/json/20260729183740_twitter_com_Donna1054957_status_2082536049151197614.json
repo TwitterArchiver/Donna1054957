@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082536019388473344",
+        "3_2082536033691009024"
+      ]
+    },
+    "author_id": "1971244609943564290",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082536049151197614",
+    "created_at": "2026-07-29T18:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082536049151197614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vut3jFF81Z",
+          "end": 90,
+          "expanded_url": "https://x.com/Donna1054957/status/2082536049151197614/photo/1",
+          "media_key": "3_2082536019388473344",
+          "start": 67,
+          "url": "https://t.co/vut3jFF81Z"
+        },
+        {
+          "display_url": "pic.x.com/vut3jFF81Z",
+          "end": 90,
+          "expanded_url": "https://x.com/Donna1054957/status/2082536049151197614/photo/1",
+          "media_key": "3_2082536033691009024",
+          "start": 67,
+          "url": "https://t.co/vut3jFF81Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082536049151197614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的Limbus已到达1500小时 有没有人想加我Steam 可以评论我私你 或者直接来私我呀🦭嗯我可以监视你们有没有玩不好的游戏👀 https://t.co/vut3jFF81Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2509,
+        "media_key": "3_2082536019388473344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOanedObIAA3lB8.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3451,
+        "media_key": "3_2082536033691009024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOanfSgagAAjiqH.jpg",
+        "width": 3069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082536019388473344",
+            "3_2082536033691009024"
+          ]
+        },
+        "author_id": "1971244609943564290",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082536049151197614",
+        "created_at": "2026-07-29T18:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082536049151197614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vut3jFF81Z",
+              "end": 90,
+              "expanded_url": "https://x.com/Donna1054957/status/2082536049151197614/photo/1",
+              "media_key": "3_2082536019388473344",
+              "start": 67,
+              "url": "https://t.co/vut3jFF81Z"
+            },
+            {
+              "display_url": "pic.x.com/vut3jFF81Z",
+              "end": 90,
+              "expanded_url": "https://x.com/Donna1054957/status/2082536049151197614/photo/1",
+              "media_key": "3_2082536033691009024",
+              "start": 67,
+              "url": "https://t.co/vut3jFF81Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082536049151197614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Limbus已到达1500小时 有没有人想加我Steam 可以评论我私你 或者直接来私我呀🦭嗯我可以监视你们有没有玩不好的游戏👀 https://t.co/vut3jFF81Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081482275225739264/layUdQ90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 245,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}

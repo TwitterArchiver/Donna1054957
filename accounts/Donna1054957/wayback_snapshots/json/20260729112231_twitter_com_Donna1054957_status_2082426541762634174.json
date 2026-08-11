@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971244609943564290",
+    "conversation_id": "2082426541762634174",
+    "created_at": "2026-07-29T11:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082426541762634174"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082426541762634174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "科比，你太调皮了，能不能不玩躲猫猫了，这一躲一晃5年了，科粉们都很想你，好多球迷就因为想念你，每天刷视频就看你，老大，不许再走了，该回来叫我们打篮球了，老大，如果你收到消息了，早点回来给科粉们一个惊喜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2082426541762634174",
+        "created_at": "2026-07-29T11:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082426541762634174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082426541762634174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "科比，你太调皮了，能不能不玩躲猫猫了，这一躲一晃5年了，科粉们都很想你，好多球迷就因为想念你，每天刷视频就看你，老大，不许再走了，该回来叫我们打篮球了，老大，如果你收到消息了，早点回来给科粉们一个惊喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081482275225739264/layUdQ90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 221,
+          "like_count": 689,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}

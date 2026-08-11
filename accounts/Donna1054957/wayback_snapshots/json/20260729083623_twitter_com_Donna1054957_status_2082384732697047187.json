@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082384718071537664"
+      ]
+    },
+    "author_id": "1971244609943564290",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2082384732697047187",
+    "created_at": "2026-07-29T08:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082384732697047187"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yYEQVY9tCz",
+          "end": 30,
+          "expanded_url": "https://x.com/Donna1054957/status/2082384732697047187/photo/1",
+          "media_key": "3_2082384718071537664",
+          "start": 7,
+          "url": "https://t.co/yYEQVY9tCz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082384732697047187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买点日用品来 https://t.co/yYEQVY9tCz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2082384718071537664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYd3j5bIAA5HcP.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082384718071537664"
+          ]
+        },
+        "author_id": "1971244609943564290",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082384732697047187",
+        "created_at": "2026-07-29T08:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082384732697047187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYEQVY9tCz",
+              "end": 30,
+              "expanded_url": "https://x.com/Donna1054957/status/2082384732697047187/photo/1",
+              "media_key": "3_2082384718071537664",
+              "start": 7,
+              "url": "https://t.co/yYEQVY9tCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082384732697047187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买点日用品来 https://t.co/yYEQVY9tCz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081482275225739264/layUdQ90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 220,
+          "like_count": 676,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}

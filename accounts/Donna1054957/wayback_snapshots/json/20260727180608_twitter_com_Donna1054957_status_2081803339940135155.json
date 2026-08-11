@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971244609943564290",
+    "conversation_id": "2081803339940135155",
+    "created_at": "2026-07-27T18:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T19:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081803339940135155"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/ot78725",
+          "end": 42,
+          "expanded_url": "https://ngl.link/ot78725",
+          "start": 19,
+          "status": 200,
+          "title": "@OT: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/ot78725",
+          "url": "https://t.co/BbafwEURHI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081803339940135155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "陪我玩这个👇可以收获一个没什么的感谢\nhttps://t.co/BbafwEURHI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2081803339940135155",
+        "created_at": "2026-07-27T18:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081803339940135155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/ot78725",
+              "end": 42,
+              "expanded_url": "https://ngl.link/ot78725",
+              "start": 19,
+              "status": 200,
+              "title": "@OT: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/ot78725",
+              "url": "https://t.co/BbafwEURHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081803339940135155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陪我玩这个👇可以收获一个没什么的感谢\nhttps://t.co/BbafwEURHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中                                                                                                    本人存在: od/🔪/碎碎念/发病/负能量/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081482275225739264/layUdQ90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 197,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 301
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}

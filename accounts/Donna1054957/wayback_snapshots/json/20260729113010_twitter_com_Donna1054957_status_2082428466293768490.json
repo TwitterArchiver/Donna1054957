@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1971244609943564290",
+    "conversation_id": "2082428466293768490",
+    "created_at": "2026-07-29T11:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082428466293768490"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082428466293768490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "電波 電波の 怪電波💞✨电波💝 ⚡⚡电波 ✨⚡⚡⚡这奇妙电波🥰⚡⚡宇宙に夢中で交信中😘沉浸宇宙 全力连线中💘なんか変だよインベーダー🎉总觉得不对劲啊 入侵者❤️きみだけに捧ぐ愛を Ah✨✨只献给你一人的爱意 啊☹️電波 ⚡⚡電波 赤い電波⚡⚡电波⚡⚡ 电波⚡⚡ 红色电波⚡⚡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2082428466293768490",
+        "created_at": "2026-07-29T11:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082428466293768490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082428466293768490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "電波 電波の 怪電波💞✨电波💝 ⚡⚡电波 ✨⚡⚡⚡这奇妙电波🥰⚡⚡宇宙に夢中で交信中😘沉浸宇宙 全力连线中💘なんか変だよインベーダー🎉总觉得不对劲啊 入侵者❤️きみだけに捧ぐ愛を Ah✨✨只献给你一人的爱意 啊☹️電波 ⚡⚡電波 赤い電波⚡⚡电波⚡⚡ 电波⚡⚡ 红色电波⚡⚡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081482275225739264/layUdQ90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 221,
+          "like_count": 692,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}
